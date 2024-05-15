@@ -15,7 +15,7 @@
 - 📫 Cómo contactarme: 
 - 😄 Pronombres: ...
 
-Conoce un poco más de mi trabajo en LinkedIn
+Conoce un poco más de mi trabajo en [LinkedIn](https://www.linkedin.com/in/laura-guadalupe-montiel-374b0073/).
 
 # **Educacion**
 
