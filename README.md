@@ -5,21 +5,20 @@
 
 **Ozfiz18/Ozfiz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# About me
+# **Acerca de mi**
 
-located_in: Ciudad de Mexico
+- 🔭 Actualmente estoy trabajando en Banco Santander
+- 🌱 Actualmente estoy aprendiendo HTML y CSS
+- 💬 Pregúntame sobre temas de Finanzas que podre asesorarte un poco.
+- 📫 Cómo contactarme: 
+- 😄 Pronombres: ...
 
-current_job: Branch Manager
-
-company: Santander
-
-
-education:
+# **Educacion**
   [
-  "Master's Degree in Finance"
-  "Industrial Administrator"
+  "Maestria en Finanzas"
+  "Lic. en Administracion Industrial"
   ]
 
   hobbies: ["listen to music, reading"]
 
- ## 🎯 Some technologies I use:
+ ## 🎯 **Algunas tebcnologías que he usado:**
