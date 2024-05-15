@@ -15,6 +15,8 @@
 - 📫 Cómo contactarme: 
 - 😄 Pronombres: ...
 
+Conoce un poco más de mi trabajo en LinkedIn
+
 # **Educacion**
 
   "Maestria en Finanzas"
