@@ -20,3 +20,5 @@ education:
   ]
 
   hobbies: ["listen to music, reading"]
+
+ ## 🎯 Some technologies I use:
