@@ -16,11 +16,9 @@
 - 😄 Pronombres: ...
 
 # **Educacion**
-  [
+
   "Maestria en Finanzas"
-  
   "Lic. en Administracion Industrial"
-  ]
 
   hobbies: ["Escuchar musica, leer"]
 
