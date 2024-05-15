@@ -14,9 +14,10 @@
 # **Educacion**
   [
   "Maestria en Finanzas"
+  
   "Lic. en Administracion Industrial"
   ]
 
-  hobbies: ["listen to music, reading"]
+  hobbies: ["Escuchar musica, leer"]
 
  ## 🎯 **Algunas tebcnologías que he usado:**
