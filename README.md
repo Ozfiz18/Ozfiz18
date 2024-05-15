@@ -1,7 +1,7 @@
 
-# **_¡Hi There!**
+# **¡Hi There!**
 
-**I am Laura Montiel_**
+**I am Laura Montiel**
 
 ![header](/LauraMontiel.png)
 
