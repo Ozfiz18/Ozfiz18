@@ -1,16 +1,22 @@
-### Hi there 👋
+
+# **_Hi There, I am Laura Montiel_**
 
 ![header](/1.png)
 **Ozfiz18/Ozfiz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+located_in: Ciudad de Mexico
+
+current_job: Branch Manager
+
+company: Santander
+
+
+education:
+  [
+  "Master's Degree in Finance"
+  "Industrial Administrator"
+  ]
+
+  hobbies: ["listen to music, reading"]
