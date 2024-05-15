@@ -26,4 +26,4 @@ Conoce un poco más de mi trabajo en [LinkedIn](https://www.linkedin.com/in/laur
 
  ## 🎯 **Algunas tebcnologías que he usado:**
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
